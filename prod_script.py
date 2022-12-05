@@ -1,8 +1,11 @@
 import pandas as pd
+import numpy as np
 
 # Config
 MODEL_PATH = '.\models\model 9043 05-12-2022 12-05.json'
-TEST_MODE = bool(input())
+TEST_MODE = True
+print(f'Is test mode: {TEST_MODE}')
+print()
 
 
 def get_oldpeak_cats(row):
