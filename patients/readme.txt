@@ -1,0 +1,1 @@
+In this directory, logging of incoming information about patients and forecasts about the likelihood of having a heart disease is carried out.
