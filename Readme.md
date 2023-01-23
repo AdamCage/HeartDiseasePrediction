@@ -1,3 +1,5 @@
+# To predict heart disease for a patient, use the script prod_script.py
+
 # About Dataset
 
 ## Context
